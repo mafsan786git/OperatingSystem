@@ -1,4 +1,7 @@
-
+#MOHD AFSAN AHMAD
+#CSB=55
+#12180058
+#FIRST COME FIRST SERVE
 
 global name,arrival,burst,comp,turn,wait
 name = []
