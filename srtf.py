@@ -1,6 +1,7 @@
-
-
-
+#MOHD AFSAN AHMAD
+#CSB=55
+#12180058
+#SHORTEST REMAINING  TIME FIRST
 
 process = []
 
@@ -101,29 +102,30 @@ def main():
 main()
 			
 	
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
-			 
+#OUTPUT
+
+'''
+enter number of process : 4
+enter arival time for all process 
+Enter arrival time 1 : 0
+Enter burst time 1 : 8
+Enter arrival time 2 : 1
+Enter burst time 2 : 4
+Enter arrival time 3 : 2
+Enter burst time 3 : 2
+Enter arrival time 4 : 3
+Enter burst time 4 : 1
+enter all process 
+PID	AT	BT
+P1	0	8	
+P2	1	4	
+P3	2	2	
+P4	3	1	
+PID	AT	BT	CT	TAT	WT
+P1	0	8	15 	 15 	 7
+P2	1	4	8 	 7 	 3
+P3	2	2	4 	 2 	 0
+P4	3	1	5 	 2 	 1
+Average Turn Around Time :  6.5
+Average Waiting Time :  2.75
+'''
